@@ -1,6 +1,7 @@
 import { FlatList, Text, View } from 'react-native'
 import { products } from '../../../../store/products.stores'
 
+
 const ProductsScreen = () => {
     return (
         <View className='flex flex-1 px-4'>
